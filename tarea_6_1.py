@@ -74,4 +74,10 @@ for eje in ax:
     eje.grid(True, which="both", alpha=0.3)
     eje.legend()
 plt.tight_layout()
+
+from pathlib import Path  # permite trabajar con rutas de archivos.
+carpeta = Path(__file__).resolve().parent / "resultados"  # ubica la carpeta.
+carpeta.mkdir(exist_ok=True)  # crea la carpeta si no existe.
+fig.savefig(carpeta / "Tarea_6_1.png", dpi=180, bbox_inches="tight")  # guarda el gráfico.
+
 plt.show()
