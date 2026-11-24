@@ -81,3 +81,8 @@ carpeta.mkdir(exist_ok=True)  # crea la carpeta si no existe.
 fig.savefig(carpeta / "Tarea_6_1.png", dpi=180, bbox_inches="tight")  # guarda el gráfico.
 
 plt.show()
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# Nota según rúbrica: 7.0; descuento por atraso: 1.0.
+# Se descuenta un punto por entrega tardía según el acuerdo especial.

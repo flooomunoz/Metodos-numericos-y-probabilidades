@@ -92,3 +92,6 @@ carpeta.mkdir(exist_ok=True)  # crea carpeta si no existe.
 fig.savefig(carpeta / "Tarea_8_8.png", dpi=180, bbox_inches="tight") # guarda el grafico en formato PNG.
 print("\nGrafico guardado en resultados/Tarea_8_8.png")
 plt.show()  
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.

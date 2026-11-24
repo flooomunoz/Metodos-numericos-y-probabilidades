@@ -43,3 +43,9 @@ resultado = gauss_compuesta(polinomio, 0.0, 2.0, n=4, m=2) # comprueba exactitud
 print(f"\nVerificación con x³-2x+1 en [0,2]: {resultado:.15f}; exacta=2.")
 print("n es el número de subintervalos; m, los nodos por subintervalo.")
 print("Con m nodos la regla es exacta hasta grado 2m-1, salvo redondeo.") 
+
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# Nota según rúbrica: 7.0; descuento por atraso: 1.0.
+# Se descuenta un punto por entrega tardía según el acuerdo especial.

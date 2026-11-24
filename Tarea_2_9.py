@@ -46,3 +46,9 @@ print("a la precisión usada; no demuestra ausencia de error matemático.")
     
 
 
+
+
+# Nota: 4.0
+# Base: 1/1; funcionamiento: 2/4; comentarios: 1/1; claridad: 1/1.
+# Nota según rúbrica: 5.0; descuento por atraso: 1.0.
+# El retorno dentro del ciclo impide sumar los ocho términos de Taylor y se descuenta un punto por entrega tardía según el acuerdo especial.

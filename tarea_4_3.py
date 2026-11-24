@@ -49,3 +49,9 @@ plt.legend()
 plt.grid(alpha=0.3)
 plt.tight_layout()
 plt.show()
+
+
+# Nota: 6.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
+# Nota según rúbrica: 7.0; descuento por atraso: 1.0.
+# Se descuenta un punto por entrega tardía según el acuerdo especial.

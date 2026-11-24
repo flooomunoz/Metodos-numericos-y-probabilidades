@@ -122,3 +122,7 @@ print(texto)
 print(f"\nResultados guardados en: {salida}")
 plt.show()
 
+
+
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
